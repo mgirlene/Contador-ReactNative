@@ -36,11 +36,11 @@
      justifyContent: 'center'
    },
    cont:{
-     width: 150,
+     width: 200,
      height: 75,
-     margin: 10,
+     margin: 20,
      borderRadius: 10,
-     backgroundColor: 'black',
+     backgroundColor: '#483d8b',
      justifyContent: 'center',
      textAlign: 'center'
    },
